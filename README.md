@@ -34,9 +34,9 @@
 
 more screenshots at the bottom.
 
-Deployed Site on Heroku [here](https://joblesswatches.herokuapp.com/)
+Deployed Site on Heroku [here](https://watchesco.herokuapp.com/)
 
-Github Repo: [here](https://github.com/nvmax/Joblesswannabies-project3)
+Original Github Repo: [here](https://github.com/nvmax/Joblesswannabies-project3)
 
 ## Description
 
