@@ -32,7 +32,7 @@
 
 ![main screen top](./images/screenshot1.png)
 
-more screenshots at the bottom.
+More screenshots at the bottom.
 
 Deployed Site on Heroku [here](https://watchesco.herokuapp.com/)
 
